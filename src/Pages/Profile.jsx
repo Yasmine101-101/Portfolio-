@@ -1,11 +1,7 @@
-function Profile() {
-    
+export default function Profile() {
   return (
     <div>
-      <h1>Profile</h1>
-      <p>This is the profile page.</p>
+      <h1>Coming soon..</h1>
     </div>
   );
 }
-
-export default Profile;
